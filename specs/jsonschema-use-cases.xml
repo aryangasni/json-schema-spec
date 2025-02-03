@@ -38,7 +38,7 @@
         <note title="Note to Readers">
             <t>
                 The issues list for this document can be found at
-                <eref target="https://github.com/json-schema-org/json-schema-spec/issues"/>.
+                <eref target="https://github.com/json-schema-org/json-schema-spec/issues"/
             </t>
             <t>
                 For additional information, see <eref target="https://json-schema.org/"/>.
